@@ -1,0 +1,2 @@
+add_subdirectory(first_soc)
+add_subdirectory(shared)
